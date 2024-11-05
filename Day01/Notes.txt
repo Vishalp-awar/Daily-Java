@@ -1,0 +1,13 @@
+
+1. What is Java?
+Java is a programming language and computing platform used to create a variety of applications, including mobile apps, enterprise software, and web applications.
+
+2. What is JDK?
+The full form of JDK is Java Development Kit. It is a collection of tools and libraries that allow developers to write, compile, and run Java programs.
+
+3. What is JRE?
+The full form of JRE is Java Runtime Environment. It provides the environment necessary to run Java applications. The JRE is included inside the JDK.
+
+4. What is JVM?
+The full form of JVM is Java Virtual Machine. It is a virtual machine that runs Java programs. The JVM is located inside the JRE.
+
