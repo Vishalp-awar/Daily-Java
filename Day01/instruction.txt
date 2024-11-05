@@ -1,0 +1,21 @@
+Steps to Run Code:
+
+1. Create a file with the .java extension.
+
+2. Copy and paste the code from Test.java into your file. (Note: The class name should match the file name. For example, if the file name is Test.java, the class inside should be class Test {}.)
+
+3. Save the file.
+
+4. Open a terminal in the current directory. (Right-click on an empty space in the directory and select Open Terminal, or use Git Bash, Command Prompt, etc.)
+
+5. Type the following command with the complete file name and .java extension:
+   
+    Example: javac Test.java
+
+    This will create a .class file in the same directory.
+
+6. Type a new command to run the program and see the output:
+
+    Example: java Test
+    
+    This will print: "Hello World!!!"
